@@ -1,0 +1,43 @@
+div{
+	border:solid 1px;
+}
+.col5{width:5%;}
+.col10{width:10%;}
+.col18{width:18%;}
+.col20{width:20%;}
+.col22{width:22%;}
+.col25{width:25%;}
+.col26{width:26%;}
+.col30{width:30%;}
+.col32{width:32%;}
+.col33{width:33.33%;}
+.col35{width:35%;}
+.col40{width:40%;}
+.col50{width:50%;}
+.col60{width:60%;}
+.col65{width:65%;}
+.col68{width:68%;}
+.col70{width:70%;}
+.col78{width:78%;}
+.col80{width:80%;}
+.col90{width:90%;}
+.col100{width:100%;}
+.col5,.col10,.col18,.col20,.col22,.col25,.col26,.col30,.col33,.col32,.col35,.col40,.col50,.col60,.col65,.col68,.col70,.col78,.col80,.col90,.col100{
+	display:inline-block;
+	box-sizing:border-box;
+	margin-right:-4px;
+}
+#wrapper{
+	width:1240px; 			/* orizei to platos olis tis selidas mas */
+	margin:0 auto; 			/* bazei peri8orio epano kato 0 kai to auto aristera de3ia me apotelesma na stixizei sto kentro oli ti selida */
+	font-family:Tahoma;
+}
+.top{
+	vertical-align:top;
+}
+.middle{
+	vertical-align:middle;
+}
+.bottom{
+	vertical-align:bottom;
+}

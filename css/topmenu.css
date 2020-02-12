@@ -1,0 +1,17 @@
+			#top-menu ul{
+				padding:0;
+				margin:0;
+				list-style:none;
+				float:right;/*Τοποθετεί το ul τέρμα αριστερά ή τέρμα δεξιά*/
+			}
+			#top-menu ul li{
+				display:inline-block;				
+				margin-right:10px;
+			}
+			#top-menu ul li a{
+				display:inline-block;
+				text-align:center;
+				text-decoration:none;
+				color:black;
+			}
+			

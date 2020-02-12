@@ -1,0 +1,20 @@
+			#gate ul{
+				padding:0;
+				margin:25px 0;
+				list-style:none;
+			}
+			#gate ul li{
+				display:inline-block;
+				
+			}
+			#gategories ul li a{
+				background-color:#f5f5f5;
+				color:black;	
+				text-decoration:none;
+				padding:10px 57px;
+			}
+			#gategories ul li a:hover{
+				background-color:#1cae8a;
+				color:white;
+			}
+			

@@ -1,0 +1,37 @@
+			#gate {
+				background-color:white;
+			}
+			#gate ul{
+				padding:0;
+				list-style:none;
+			}
+			#gate ul li{
+				width:100%;
+
+			}
+			#gate ul li a{
+				background-color:#f5f5f5;
+				color:black;	
+				display:block;
+				text-decoration:none;
+				width:100%;
+				margin-top:1px;
+				padding:10px 5px;
+			}
+			#gate ul li a:hover{
+				background-color:#1cae8a;
+				color:white;
+			}
+			#info ul li{
+				width:100%;
+				margin-top:5px;
+			}
+			#info ul li a{
+				background-color:#f5f5f5;
+				color:black;	
+				padding:2px;
+			}
+			#info ul li a:hover{
+				background-color:#1cae8a;
+				color:white;
+			}
